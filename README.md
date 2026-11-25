@@ -1,4 +1,4 @@
-# Projekt: system zamówień dla pasażerów
+# Projekt inżynierski
 Stack: Java 21 + Spring Boot 4, PostgreSQL, React Native (Android), SQLite.
 Architektura: terminal ↔(REST/LAN) serwer pokładowy ↔(REST) centrala. Zob. docs/architecture.md
 
