@@ -1,6 +1,8 @@
 .env
 *.log
-node_modules/
-target/
-.idea/
 .DS_Store
+.idea/
+target/
+node_modules/
+*.keystore
+android/app/build/
